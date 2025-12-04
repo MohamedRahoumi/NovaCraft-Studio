@@ -18,6 +18,9 @@ $titles = [
     '404'      => 'Page introuvable - DigitalWave'
 ];
 
+$pageTitle = $titles[$page];
+
+
 
 
 ?>
