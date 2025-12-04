@@ -20,7 +20,7 @@ $titles = [
 
 $pageTitle = $titles[$page];
 
-
+require __DIR__ . "/controllers/$page.php";
 
 
 ?>
