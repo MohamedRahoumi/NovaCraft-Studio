@@ -2,6 +2,16 @@
 
   <h2 class="text-3xl font-bold mb-6 text-center">Contactez-nous</h2>
 
+  <?php if (!empty($errors)): ?>
+    <div class="max-w-xl mx-auto bg-red-100 text-red-700 p-4 rounded-lg mb-4">
+      <ul class="list-disc pl-5">
+        <?php foreach ($errors as $error): ?>
+          <li><?= htmlspecialchars($error) ?></li>
+        <?php endforeach; ?>
+      </ul>
+    </div>
+  <?php endif; ?>
+
   
 
   <form class="max-w-xl mx-auto bg-white p-8 shadow-md rounded-lg space-y-4"
