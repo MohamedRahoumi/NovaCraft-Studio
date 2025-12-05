@@ -12,7 +12,11 @@
     </div>
   <?php endif; ?>
 
-  
+  <?php if ($success): ?>
+    <div class="max-w-xl mx-auto bg-green-100 text-green-700 p-4 rounded-lg mb-4">
+      Votre message a ete envoye avec succès !
+    </div>
+  <?php endif; ?>
 
   <form class="max-w-xl mx-auto bg-white p-8 shadow-md rounded-lg space-y-4"
         method="post"
