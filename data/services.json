@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Web Design",
+    "description": "Modern UI/UX designs that improve user experience and brand identity."
+  },
+  {
+    "title": "Web Development",
+    "description": "Fast and secure websites built with modern technologies."
+  },
+  {
+    "title": "Mobile App Development",
+    "description":" Cross-platform mobile applications for Android and iOS."
+  },
+  {
+    "title": "SEO Optimization",
+    "description": "Increase your website visibility with advanced SEO techniques."
+  },
+  {
+    "title": "E-commerce Solutions",
+    "description": "Complete online store setup with payment systems and product management."
+  },
+  {
+    "title": "Branding & Identity",
+    "description": "Logo creation, brand guidelines, and visual identity systems."
+  },
+  {
+    "title": "Digital Marketing",
+    "description": "Social media strategy, ads management, and online campaigns."
+  },
+  {
+    "title": "Content Creation",
+    "description": "Engaging written and visual content tailored to your audience."
+  },
+  {
+    "title": "Maintenance & Support",
+    "description": "Regular updates, bug fixing, and performance monitoring."
+  },
+  {
+    "title": "Cloud Hosting Setup",
+    "description": "Deploy and configure websites and apps on secure cloud platforms."
+  },
+  {
+    "title": "Developement Digital ",
+    "description": "Aprentissage pour develloper les competences techniques de programmation"
+  },
+  {
+    "title": "Software Engineer",
+    "description": "un professionnel de l'informatique spécialisé dans la conception"
+  }
+]
